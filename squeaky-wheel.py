@@ -12,7 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 
 CONIFG_FILENAME = "config.json"
-
+#Vanitra Richards
 
 class DriverType(Enum):
     driver = 0
